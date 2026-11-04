@@ -1,0 +1,14 @@
+bp,segment1,segment2,segment3,segment4,segment5
+"(80, 120)",-,-,-,-,-
+"(120, 160)",-,-,-,-,significant
+"(160, 200)",-,-,significant,-,-
+"(200, 240)",-,-,significant,-,-
+"(240, 280)",-,-,-,-,-
+"(280, 320)",significant,-,-,-,-
+"(320, 360)",-,-,-,-,-
+"(360, 400)",-,-,-,-,significant
+"(400, 440)",-,-,-,significant,significant
+"(440, 480)",-,-,-,significant,significant
+"(480, 520)",-,-,significant,significant,significant
+"(520, 560)",-,-,significant,significant,significant
+"(560, 600)",-,-,significant,significant,significant
